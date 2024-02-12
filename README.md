@@ -1,4 +1,4 @@
-###Carlson Sales Report
+**Carlson Sales Report**
 
 ###Summary of Financial Transactions (Jan-Dec)
 ###Total Amount: The total amount of transactions varies from month to month, ranging from a high of $1,928,066 in March to a low of $1,615,356 in November.
@@ -48,7 +48,7 @@ Statewise Sales Distribution: The data reflects the total sales amount attribute
 ### Summary of Order Distribution by Gender and Age Group
 
 **Age Group** | **Men (%)** | **Women (%)**
----|---|---
+
 **Adult** | 23.29% | 52.39%
 **Senior** | 5.91% | 13.70%
 **Teenager** | 1.38% | 3.33%
