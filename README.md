@@ -39,10 +39,15 @@ Statewise Sales Distribution: The data reflects the total sales amount attribute
 **Percentage Breakdown**:
 
 **Maharashtra**: $2,990,221 / ($2,990,221 + $2,646,358 + $2,104,659 + $1,712,439 + $1,678,877) = 26.64%
+
 **Karnataka**: $2,646,358 / ($2,990,221 + $2,646,358 + $2,104,659 + $1,712,439 + $1,678,877) = 23.52%
+
 **Uttar Pradesh**: $2,104,659 / ($2,990,221 + $2,646,358 + $2,104,659 + $1,712,439 + $1,678,877) = 18.72%
+
 **Telangana**: $1,712,439 / ($2,990,221 + $2,646,358 + $2,104,659 + $1,712,439 + $1,678,877) = 15.24%
+
 **Tamil Nadu**: $1,678,877 / ($2,990,221 + $2,646,358 + $2,104,659 + $1,712,439 + $1,678,877) = 14.88%
+
 **Sales Distribution Insights**: Maharashtra and Karnataka together contribute to nearly half of the total sales, indicating their significance in terms of revenue generation.
 
 ### Summary of Order Distribution by Gender and Age Group
