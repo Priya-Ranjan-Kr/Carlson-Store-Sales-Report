@@ -1,7 +1,7 @@
 **Carlson Sales Report**
 
-###Summary of Financial Transactions (Jan-Dec)
-###Total Amount: The total amount of transactions varies from month to month, ranging from a high of $1,928,066 in March to a low of $1,615,356 in November.
+**Summary of Financial Transactions (Jan-Dec)**
+**Total Amount**: The total amount of transactions varies from month to month, ranging from a high of $1,928,066 in March to a low of $1,615,356 in November.
 **Order Count**: The number of orders also fluctuates, with a peak of 2,819 orders in March and a low of 2,383 orders in November.
 **Monthly Trends**:
 **Consistent Patterns**: Generally, there seems to be consistency in the pattern of transactions throughout the year, with slight fluctuations.
@@ -12,7 +12,7 @@
 **Stability**: Despite fluctuations, there's overall stability in the transactional data, indicating consistent business operations.
 
 **Analysis**:
-###Gender Distribution: The sales data indicates that Women contribute a significantly higher portion of the total sales compared to Men.
+**Gender Distribution**: The sales data indicates that Women contribute a significantly higher portion of the total sales compared to Men.
 
 **Percentage Breakdown**:
 
